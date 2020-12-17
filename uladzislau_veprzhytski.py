@@ -15,3 +15,5 @@ print ("6.Собственные упражнения... перевод симв
 print (line.swapcase())
 print ("7.Вывести в консоль исходную строку")
 print (line, "  ...а пожалуйста!")
+# add a text for the check of commit
+print ("проверка коммита")
