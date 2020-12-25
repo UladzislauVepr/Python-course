@@ -155,9 +155,7 @@ time.sleep(0.5)
 print ('определитесь кто будет делать первый ход...')
 time.sleep(2)
 
-#i=1
 for i in range (9):
-    i=i+1
     if ('OOO' not in dryn):
         step_X()
         change_field_X(hold)
